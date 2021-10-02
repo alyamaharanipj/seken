@@ -13,8 +13,8 @@ Seken is website based application that implement 'mobile first' design to facil
 - Delete user if they violated a rule (Admin)
 
 # Screenshot
-<p align="center">
-- Home
+<p align="center" fontWeight="bold">
+Home
 </p>
 
 <p align="center">
