@@ -43,51 +43,51 @@ Seken is website based application that implement 'mobile first' design to facil
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/Detail.png"/>
 </p>
 
-- **Add new product
+- **Add new product**
 
 <p align="center">
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/form%20jual%20barang.png"/>
 </p> 
 
-- **Search
+- **Search**
 
 <p align="center">
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/search%20result.jpg"/>
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/search.png"/>
 </p>
 
-- **Store
+- **Store**
 
 <p align="center">
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/toko.png"/>
 </p> 
 
-- **Profile
+- **Profile**
 
 <p align="center">
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/profil.png"/>
 </p> 
 
-- **Sold out
+- **Sold out**
 
 <p align="center">
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/konfirmasi%20terjual.png"/>
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/barang%20terjual.png"/>
 </p>
 
-- **Delete user
+- **Delete user**
 
 <p align="center">
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/delete%20user.png"/>
 </p>
 
-- **Contact
+- **Contact**
 
 <p align="center">
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/kontak.png"/>
 </p>
 
-- **About
+- **About**
 
 <p align="center">
     <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/about1.png"/>
