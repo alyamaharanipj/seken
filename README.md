@@ -21,14 +21,20 @@ Seken is website based application that implement 'mobile first' design to facil
 
 - Register
 
-![register](https://github.com/alyamaharanipj/seken/blob/main/screenshot/register.png)
+<p align="center">
+  <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/register.png"/>
+</p>
 
 - Login
 
-![login](https://github.com/alyamaharanipj/seken/blob/main/screenshot/log%20in.png) 
+<p align="center">
+  <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/log%20in.png"/>
+</p>
  
 - Edit profile
 
-![edit](https://github.com/alyamaharanipj/seken/blob/main/screenshot/edit%20profil.png)
+<p align="center">
+  <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/edit%20profil.png"/>
+</p>
 
 
