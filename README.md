@@ -5,8 +5,9 @@ Seken is website based application to facilitate Politeknik Negeri Bandung stude
 # Functions
 - Register (Seller and Buyer)
 - Login (Seller, buyer, and admin)
-- Display all preloved item 
-- Display item detail
+- Display all preloved product 
+- Display product detail
+- Search product
 - Contact seller via whatsapp
 - Update item status if its already sold out
 - Delete user if they violated a rule (Admin)
