@@ -37,4 +37,8 @@ Seken is website based application that implement 'mobile first' design to facil
   <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/edit%20profil.png"/>
 </p>
 
+- **Detail**
+<p align="center">
+    <img src="https://github.com/alyamaharanipj/seken/blob/main/screenshot/detail%20barang%20pribadi.png"/>
+</p>
 
