@@ -13,7 +13,7 @@ Seken is website based application that implement 'mobile first' design to facil
 - Delete user if they violated a rule (Admin)
 
 # Screenshot
-= Register
+= Register, Login
 
-![register](https://github.com/alyamaharanipj/seken/blob/main/screenshot/register.png) ![register](https://github.com/alyamaharanipj/seken/blob/main/screenshot/register.png) 
+![register](https://github.com/alyamaharanipj/seken/blob/main/screenshot/register.png) ![login](https://github.com/alyamaharanipj/seken/blob/main/screenshot/log%20in.png) 
 
